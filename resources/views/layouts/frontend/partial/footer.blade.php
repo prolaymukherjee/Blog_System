@@ -8,8 +8,8 @@
 
                     {{--<a class="logo" href="#"><img src="images/logo.png" alt="Logo Image"></a>--}}
                     <p class="copyright">{{ config('app.name') }} @ 2018. All rights reserved.</p>
-                    <p class="copyright">Designed by <a href="https://colorlib.com" target="_blank">Colorlib</a> and Develop by
-                        <a href="https://www.youtube.com/channel/UCwbVAlvrsD2Tpx93bleNbOA" target="_blank">Programming kit</a></p>
+                    <p class="copyright">Designed by <a href=""_blank">Prolay</a> and Develop by
+                        <a href="" target="_blank"Prolay</a></p>
                     <ul class="icons">
                         <li><a href="#"><i class="ion-social-facebook-outline"></i></a></li>
                         <li><a href="#"><i class="ion-social-twitter-outline"></i></a></li>
